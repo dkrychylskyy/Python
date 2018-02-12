@@ -1,0 +1,42 @@
+1518408623020	geckodriver	INFO	geckodriver 0.19.1
+1518408623023	geckodriver	INFO	Listening on 127.0.0.1:33175
+1518408624110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5VX520LI54g2"
+1518408624689	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518408625600	Marionette	INFO	Listening on port 44269
+1518408625618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518408625653	Marionette	DEBUG	Register listener.js for window 2147483649
+1518408625670	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518408625679	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518408625679	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518408625681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518408625684	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518408814637	geckodriver	INFO	geckodriver 0.19.1
+1518408814639	geckodriver	INFO	Listening on 127.0.0.1:50677
+1518408815711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xdWe5qmMW7tC"
+1518408815969	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518408816684	Marionette	INFO	Listening on port 46783
+1518408816718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518408816756	Marionette	DEBUG	Register listener.js for window 2147483649
+1518408816774	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518408816783	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518408816783	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518408816786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518408816789	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Parent 23357, Gecko_IOThread] WARNING: pipe error: Relais brisé (pipe): file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518408842395	geckodriver	INFO	geckodriver 0.19.1
+1518408842397	geckodriver	INFO	Listening on 127.0.0.1:42427
+1518408843509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.59rLwL83l3ua"
+1518408843764	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518408844451	Marionette	INFO	Listening on port 42017
+1518408844514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518408844548	Marionette	DEBUG	Register listener.js for window 2147483649
+1518408844563	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518408844569	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518408844569	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518408844572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518408844574	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518408844614	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501

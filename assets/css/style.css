@@ -1,0 +1,173 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+/* Styles for React app */
+
+
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  overflow: hidden;
+}
+a {
+  color: #00897b;
+}
+
+/* Columns */
+.col-1-2 {
+  width: 50%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+#left-panel {
+  border-right: 1px solid #ddd;
+  overflow-y: scroll;
+}
+#right-panel {
+  left: 50%;
+}
+
+/* Nav */
+
+#logo-container img {
+  margin: 12px 12px 0 0;
+  max-height: 40px;
+}
+
+@media only screen and (min-width: 993px) {
+  nav .brand-logo {
+    padding-left: 30px;
+  }
+  nav .hide-on-med-and-down {
+    padding-right: 30px;
+  }
+  .main {
+    padding: 30px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  nav .brand-logo {
+    padding-left: 20px;
+  }
+  nav .hide-on-med-and-down {
+    padding-right: 20px;
+  }
+  .main {
+    padding: 20px;
+  }
+}
+
+
+/* Pagination */
+
+.pagination-wrapper {
+  /*  */
+  text-align: center;
+}
+.abs-bottom {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+}
+.pagination {
+  display: inline-block;
+}
+@media only screen and (max-width: 1024px) {
+  .pagination li:first-child a,
+  .pagination li:last-child a {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .pagination li a {
+    font-size: 0.9rem;
+    padding: 0 3px;
+  }
+  .pagination li i {
+    margin-top: 0.35rem;
+    font-size: 1.4rem;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 800px) {
+  .pagination li a {
+    font-size: 1rem;
+    padding: 0 4px;
+  }
+  .pagination li i {
+    margin-top: 0.25rem;
+    font-size: 1.6rem;
+  }
+}
+@media only screen and (min-width: 801px) and (max-width: 1024px) {
+  .pagination li a {
+    font-size: 1.1rem;
+    padding: 0 7px;
+  }
+  .pagination li i {
+    margin-top: 0.15rem;
+    font-size: 1.8rem;
+  }
+}
+
+
+/* Breadcrumb */
+
+.breadcrumb-wrapper .breadcrumb i {
+  font-size: 22px;
+}
+.breadcrumb {
+  font-size: 16px;
+}
+a.breadcrumb::before,
+span.breadcrumb::before {
+  color: #888;
+  margin: -4px 2px 0 2px;
+  font-size: 22px;
+}
+
+/* Styles for page content */
+.main {
+  /* overflow-y: scroll; */
+}
+.page {
+  /* max-height: 100px; */
+  /* overflow-y: scroll;
+  padding-right: 20px;
+  margin-right: -20px; */
+}
+.page li {
+  margin-bottom: 6px;
+}
+.page blockquote {
+  border-left: 5px solid #8d6e63;
+}
+.page img {
+  max-width: 100%;
+}
+/* About page images */
+.about img {
+  max-height: 48px;
+}
+
+.page p > code,
+.page strong > code {
+  background: rgba(27,31,35,0.05);
+  color: rgba(112, 0, 0, 1);
+}

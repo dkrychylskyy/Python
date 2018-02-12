@@ -1,0 +1,448 @@
+1518412663200	geckodriver	INFO	geckodriver 0.19.1
+1518412663202	geckodriver	INFO	Listening on 127.0.0.1:57471
+1518412664275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EsRJg4xqHzYM"
+1518412664532	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518412665183	Marionette	INFO	Listening on port 44251
+1518412665279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518412665314	Marionette	DEBUG	Register listener.js for window 2147483649
+1518412665324	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518412665329	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518412665329	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518412665332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518412665334	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518412681645	geckodriver	INFO	geckodriver 0.19.1
+1518412681647	geckodriver	INFO	Listening on 127.0.0.1:33865
+1518412715269	geckodriver	INFO	geckodriver 0.19.1
+1518412715271	geckodriver	INFO	Listening on 127.0.0.1:47441
+1518412716344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.imK90BSucUW9"
+1518412716601	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518412717293	Marionette	INFO	Listening on port 36819
+1518412717348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518412717382	Marionette	DEBUG	Register listener.js for window 2147483649
+1518412717394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518412717403	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518412717404	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518412717406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518412717409	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518412717454	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 30088, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30088, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30088, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518413169108	geckodriver	INFO	geckodriver 0.19.1
+1518413169110	geckodriver	INFO	Listening on 127.0.0.1:43121
+1518413170183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EKjtokMQyT1W"
+1518413170440	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413171096	Marionette	INFO	Listening on port 32903
+1518413171189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413171224	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413171236	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413171241	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413171241	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413171244	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413171246	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 30589, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30589, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518413492962	geckodriver	INFO	geckodriver 0.19.1
+1518413492964	geckodriver	INFO	Listening on 127.0.0.1:47085
+1518413494032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jZ89JzOB2EaE"
+1518413494306	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413495027	Marionette	INFO	Listening on port 36731
+1518413495057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413495092	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413495107	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413495116	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413495116	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413495119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413495121	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518413495220	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 30952, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518413508723	geckodriver	INFO	geckodriver 0.19.1
+1518413508725	geckodriver	INFO	Listening on 127.0.0.1:46501
+1518413509801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CCVuw0oJooKH"
+1518413510053	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413510760	Marionette	INFO	Listening on port 43641
+1518413510812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413510846	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413510858	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413510863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413510863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413510866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413510869	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 31106, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518413521725	geckodriver	INFO	geckodriver 0.19.1
+1518413521727	geckodriver	INFO	Listening on 127.0.0.1:33973
+1518413522819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7ajB7SLCLzQP"
+1518413523073	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413523743	Marionette	INFO	Listening on port 34777
+1518413523828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413523863	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413523872	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413523879	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413523879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413523882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413523884	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+Sandbox: Unexpected EOF, op 0 flags 0302 path /dev/shm/org.chromium.YXpkEk
+[Child 31257, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518413659888	geckodriver	INFO	geckodriver 0.19.1
+1518413659890	geckodriver	INFO	Listening on 127.0.0.1:60687
+1518413660965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nCUtrOIJWlov"
+1518413661220	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413661904	Marionette	INFO	Listening on port 34935
+1518413661972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413662006	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413662024	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413662033	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413662033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413662037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413662039	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518413662116	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+1518413669168	geckodriver	INFO	geckodriver 0.19.1
+1518413669170	geckodriver	INFO	Listening on 127.0.0.1:44667
+1518413670245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qPHleeo6HFNY"
+1518413670503	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413671248	Marionette	INFO	Listening on port 37005
+1518413671350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413671384	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413671394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413671400	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413671400	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413671403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413671406	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 31633, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31633, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31633, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518413744519	geckodriver	INFO	geckodriver 0.19.1
+1518413744521	geckodriver	INFO	Listening on 127.0.0.1:34771
+1518413745594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v7CjL7dxNQa8"
+1518413745850	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413746523	Marionette	INFO	Listening on port 41323
+1518413746599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413746634	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413746650	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413746659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413746659	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413746661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413746664	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518413920191	geckodriver	INFO	geckodriver 0.19.1
+1518413920193	geckodriver	INFO	Listening on 127.0.0.1:43513
+1518413921269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uiPzUBIIgfxZ"
+1518413921542	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518413922211	Marionette	INFO	Listening on port 40555
+1518413922276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518413922310	Marionette	DEBUG	Register listener.js for window 2147483649
+1518413922327	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518413922338	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518413922338	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518413922340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518413922343	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518413922389	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 32103, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32103, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518414039702	geckodriver	INFO	geckodriver 0.19.1
+1518414039704	geckodriver	INFO	Listening on 127.0.0.1:50099
+1518414040777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jzdAzXBTb3Ei"
+1518414041036	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518414041749	Marionette	INFO	Listening on port 36761
+1518414041786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518414041820	Marionette	DEBUG	Register listener.js for window 2147483649
+1518414041837	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518414041847	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518414041847	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518414041850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518414041853	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518414041925	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+1518414092903	geckodriver	INFO	geckodriver 0.19.1
+1518414092905	geckodriver	INFO	Listening on 127.0.0.1:54427
+1518414093980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.quEKDUEyQFU7"
+1518414094234	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518414094900	Marionette	INFO	Listening on port 35591
+1518414094984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518414095020	Marionette	DEBUG	Register listener.js for window 2147483649
+1518414095038	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518414095043	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518414095043	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518414095046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518414095048	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 32571, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32571, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32571, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518414095162	geckodriver	INFO	geckodriver 0.19.1
+1518414095164	geckodriver	INFO	Listening on 127.0.0.1:58743
+1518414096237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yhbE7fe7nSWX"
+1518414096492	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518414097186	Marionette	INFO	Listening on port 35895
+1518414097242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518414097275	Marionette	DEBUG	Register listener.js for window 2147483649
+1518414097282	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518414097291	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518414097291	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518414097295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518414097298	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518414097344	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 32691, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32691, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518414185489	geckodriver	INFO	geckodriver 0.19.1
+1518414185491	geckodriver	INFO	Listening on 127.0.0.1:59301
+1518414186566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gGttPR1kUmxr"
+1518414186822	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518414187499	Marionette	INFO	Listening on port 38553
+1518414187573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518414187609	Marionette	DEBUG	Register listener.js for window 2147483649
+1518414187627	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518414187645	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518414187650	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518414187650	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518414187666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=netReset&u=http%3A//localhost%3A8081/&c=UTF-8&f=regular&d=The%20connection%20to%20the%20server%20was%20reset%20while%20the%20page%20was%20loading."
+1518414187683	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+1518414187722	geckodriver	INFO	geckodriver 0.19.1
+1518414187724	geckodriver	INFO	Listening on 127.0.0.1:39179
+1518414188798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QIvKEIPRt16h"
+1518414189055	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518414189729	Marionette	INFO	Listening on port 41609
+1518414189802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518414189836	Marionette	DEBUG	Register listener.js for window 2147483649
+1518414189845	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518414189865	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518414189866	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518414189866	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518414189880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=netReset&u=http%3A//localhost%3A8081/not-found&c=UTF-8&f=regular&d=The%20connection%20to%20the%20server%20was%20reset%20while%20the%20page%20was%20loading."
+1518414189901	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 546, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 546, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 546, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416764102	geckodriver	INFO	geckodriver 0.19.1
+1518416764104	geckodriver	INFO	Listening on 127.0.0.1:36163
+1518416765178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QOjiRD7DxHln"
+1518416765430	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416766095	Marionette	INFO	Listening on port 44145
+1518416766182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416766215	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416766231	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416766239	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416766239	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416766242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518416766245	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 1896, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416766358	geckodriver	INFO	geckodriver 0.19.1
+1518416766360	geckodriver	INFO	Listening on 127.0.0.1:42593
+1518416767434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JFETNXdljqo7"
+1518416767691	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416768363	Marionette	INFO	Listening on port 46569
+1518416768443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416768478	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416768490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416768505	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416768505	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416768508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518416768510	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518416768542	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 2095, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2095, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416801663	geckodriver	INFO	geckodriver 0.19.1
+1518416801665	geckodriver	INFO	Listening on 127.0.0.1:52301
+1518416802739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OkezhJX0J7uC"
+1518416802992	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416803715	Marionette	INFO	Listening on port 37627
+1518416803748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416803783	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416803798	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416803816	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416803816	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416803820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518416803823	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518416803892	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 2247, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2247, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2247, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416803927	geckodriver	INFO	geckodriver 0.19.1
+1518416803929	geckodriver	INFO	Listening on 127.0.0.1:40005
+1518416805001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zDS9vvo4fPcb"
+1518416805256	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416805944	Marionette	INFO	Listening on port 35217
+1518416806005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416806040	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416806053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416806058	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416806058	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416806062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518416806064	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518416806099	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 2366, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416838098	geckodriver	INFO	geckodriver 0.19.1
+1518416838100	geckodriver	INFO	Listening on 127.0.0.1:57973
+1518416839173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j9geFGUzfOeL"
+1518416839427	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416840113	Marionette	INFO	Listening on port 40095
+1518416840183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416840218	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416840228	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416840237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416840237	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416840240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518416840243	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 2545, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2545, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416840353	geckodriver	INFO	geckodriver 0.19.1
+1518416840355	geckodriver	INFO	Listening on 127.0.0.1:39201
+1518416841431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NNIhTDuMu3VJ"
+1518416841689	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416842377	Marionette	INFO	Listening on port 45233
+1518416842437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416842471	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416842483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416842490	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416842491	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416842494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518416842497	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518416842529	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 2680, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2680, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2680, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416857978	geckodriver	INFO	geckodriver 0.19.1
+1518416857980	geckodriver	INFO	Listening on 127.0.0.1:45981
+1518416859055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FfV8Ol0lc1Wb"
+1518416859312	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416859983	Marionette	INFO	Listening on port 44255
+1518416860059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416860093	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416860109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416860119	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416860119	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416860122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518416860124	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 2839, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2839, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518416860248	geckodriver	INFO	geckodriver 0.19.1
+1518416860251	geckodriver	INFO	Listening on 127.0.0.1:49555
+1518416861322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Bh7IKd97gHDr"
+1518416861576	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518416862251	Marionette	INFO	Listening on port 35633
+1518416862326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518416862360	Marionette	DEBUG	Register listener.js for window 2147483649
+1518416862378	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518416862393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518416862394	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518416862397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518416862399	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518416862433	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 2960, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2960, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518417339888	geckodriver	INFO	geckodriver 0.19.1
+1518417339890	geckodriver	INFO	Listening on 127.0.0.1:57693
+1518417340964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.G1yoD7vIw9ty"
+1518417341221	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518417341931	Marionette	INFO	Listening on port 46499
+1518417341970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518417342004	Marionette	DEBUG	Register listener.js for window 2147483649
+1518417342027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518417342038	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518417342038	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518417342041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518417342044	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+1518417342161	geckodriver	INFO	geckodriver 0.19.1
+1518417342164	geckodriver	INFO	Listening on 127.0.0.1:39331
+1518417343266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.imrAlb32K31O"
+1518417343522	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518417344193	Marionette	INFO	Listening on port 37275
+1518417344270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518417344305	Marionette	DEBUG	Register listener.js for window 2147483649
+1518417344314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518417344325	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518417344325	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518417344329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518417344331	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518417344370	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 3662, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3662, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518418250984	geckodriver	INFO	geckodriver 0.19.1
+1518418250986	geckodriver	INFO	Listening on 127.0.0.1:49669
+1518418252062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UQ1Pqkwa6Ww1"
+1518418252319	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518418252958	Marionette	INFO	Listening on port 40395
+1518418252967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518418253001	Marionette	DEBUG	Register listener.js for window 2147483649
+1518418253014	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518418253025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518418253026	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518418253026	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518418253040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8081/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8081."
+1518418253070	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 4559, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4559, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4559, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518418253114	geckodriver	INFO	geckodriver 0.19.1
+1518418253116	geckodriver	INFO	Listening on 127.0.0.1:52895
+1518418254189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T7ZbLshKMe5X"
+1518418254448	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518418255120	Marionette	INFO	Listening on port 37107
+1518418255194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518418255228	Marionette	DEBUG	Register listener.js for window 2147483649
+1518418255257	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518418255264	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518418255265	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518418255266	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518418255279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8081/not-found&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8081."
+1518418255307	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 4676, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4676, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4676, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518418264181	geckodriver	INFO	geckodriver 0.19.1
+1518418264183	geckodriver	INFO	Listening on 127.0.0.1:60501
+1518418265258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.u2CCtjFSi9lA"
+1518418265531	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518418266192	Marionette	INFO	Listening on port 42397
+1518418266262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518418266297	Marionette	DEBUG	Register listener.js for window 2147483649
+1518418266312	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518418266322	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518418266323	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518418266325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/"
+1518418266330	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/"
+[Child 4818, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4818, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4818, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518418266447	geckodriver	INFO	geckodriver 0.19.1
+1518418266449	geckodriver	INFO	Listening on 127.0.0.1:38079
+1518418267522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qNeVAnCsQ15D"
+1518418267782	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1518418268442	Marionette	INFO	Listening on port 33281
+1518418268530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518418268564	Marionette	DEBUG	Register listener.js for window 2147483649
+1518418268577	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518418268582	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518418268582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518418268587	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8081/not-found"
+1518418268591	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8081/not-found"
+1518418268623	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 4937, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4937, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4937, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-AsLO24/firefox-57.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
